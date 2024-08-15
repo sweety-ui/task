@@ -1,0 +1,3 @@
+var score = 0;
+var highScore = 100;
+var level = 1;
