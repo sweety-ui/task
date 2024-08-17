@@ -1,0 +1,6 @@
+var playerName = "Kandra";
+var locationName = "The Dungeon of Doom";
+var temperature = 50;
+var message = playerName + " has temperature " + temperature + " and is in " + locationName;
+
+console.log(message);
