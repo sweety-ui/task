@@ -1,0 +1,8 @@
+var score;
+score = 100;
+console.log("Your score was " + score);
+console.log("Great splat!!!");
+console.log("You successfully splatted a kumquat!");
+score = score + 100;
+console.log("New score: " + score);
+console.log("Congratulations on the splat!");
