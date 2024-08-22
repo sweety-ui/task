@@ -1,0 +1,25 @@
+var post = {
+    id : 1,
+    title : "My Crazy Space Adventure",
+    author : "Philae",
+    created : "2015-06-21",
+    body : "You will not believe where I just woke up!! Only on a comet..."
+};
+
+console.log("First Post:");
+console.log("Title: " + post.title);
+console.log("Author: " + post.author);
+console.log("Created: " + post.created);
+
+var post2 = {
+    id : 2,
+    title : "Exploring Mars",
+    author : "Curiosity",
+    created : "2020-11-15",
+    body : "Mars is amazing! The landscape is so diverse and interesting..."
+};
+
+console.log("Second Post:");
+console.log("Title: " + post2.title);
+console.log("Author: " + post2.author);
+console.log("Created: " + post2.created);
